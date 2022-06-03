@@ -1,0 +1,8 @@
+Screen1 As screen:
+
+    Button1 As button:
+        Text: ="ボタン"
+        X: =40
+        Y: =40
+        ZIndex: =1
+
